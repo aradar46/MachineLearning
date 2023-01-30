@@ -57,5 +57,5 @@
         # 6.1. Data science best practices
         # 6.2. Machine learning best practices
         # 6.3. Software engineering best practices
-        # 6.4. and ...
+        # 6.4. and ....
 
